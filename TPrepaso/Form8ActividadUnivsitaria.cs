@@ -22,6 +22,7 @@ namespace tprepaso
             lblresta.Text = "Total";
             lblSuma.Text = "Total";
             lsbNumeros.Items.Clear();
+            txtInput.Text = "";
         }
 
         private void Form8ActividadUnivsitaria_Load(object sender, EventArgs e)
